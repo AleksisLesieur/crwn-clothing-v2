@@ -1,4 +1,3 @@
-import { confirmPasswordReset } from "firebase/auth";
 import { useState } from "react";
 
 const defaultFormFields = {
